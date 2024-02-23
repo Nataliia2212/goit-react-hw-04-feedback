@@ -1,0 +1,12 @@
+.list {
+    padding: 15px;
+    list-style: none;
+    border-radius: 8px;
+    background-color: aqua;
+    width: 400px;
+}
+
+.item {
+    line-height: 1.5;
+    font-size: 18px;
+}
